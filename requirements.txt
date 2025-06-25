@@ -1,0 +1,12 @@
+streamlit
+numpy
+pandas
+requests
+plotly
+streamlit-option-menu
+wordcloud
+matplotlib
+beautifulsoup4
+Pillow
+urllib3
+google
