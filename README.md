@@ -9,8 +9,7 @@
 
 👉 [Bitalgo 바로가기](https://bitalgo.streamlit.app/)  
 
-[![Watch the video](https://img.youtube.com/vi/영상ID/0.jpg)](https://www.youtube.com/watch?v=영상ID)  
-_(시연 영상이 있다면 추가해주세요)_
+
 
 ---
 
